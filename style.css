@@ -1479,7 +1479,7 @@ footer span a:hover{
     display: flex;
 }
 .content .logo img{
- margin-left: 140%;
+ margin-left: 90%;
 
 }
 
@@ -1500,14 +1500,14 @@ footer span a:hover{
 {
     margin-top: -150%;
     width: 250px;
-    margin-left: -14%;
+    margin-left: 2%;
 }
 
 .pontinhos2
 {
  width: 250px;
  margin-top: 8%;
- margin-left: 32%;
+ margin-left: 14%;
 }
 
  .inicio{
@@ -1540,7 +1540,7 @@ footer span a:hover{
 }
 .pontinhos3{
   margin-top: 10%;
-  margin-left: 33%;
+  margin-left: 30%;
 }
 
 .carousel .card{
@@ -1653,7 +1653,7 @@ margin-left: -6%;
     width: 350px;
     transition: all 0.3s ease;
     margin-top: 190px;
-    margin-left: -18px;
+    margin-left: -2px;
 }
 
 /* footer section styling */
