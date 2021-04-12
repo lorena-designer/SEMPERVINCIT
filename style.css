@@ -1207,6 +1207,36 @@ footer span a:hover{
 /*------------------------------------------------------------------------------------------------*/
 /*------------------------------------------------------------------------------------------------*/
 @media (max-width: 500px){
+
+
+   .wrapper-1 nav{
+    max-width: 100%;
+    padding: 0 20px;
+  }
+
+  .links li button{
+    margin-left: 2px;
+    margin-top: 5px;
+  }
+  .wrapper-1 .search-box{
+    max-width: calc(100% - 100px);
+  }
+  .wrapper-1 .search-box input{
+    padding: 0 100px 0 15px;
+  }
+  .content .logo img {
+  margin-left: 100%;
+  margin-top: -100%;
+  }
+
+  .wrapper-1 .menu-icon{
+    display: flex;
+  }
+  .wrapper-1 #show-menu:checked ~ .menu-icon i::before{
+    content: "\f00d";
+  }
+
+
   .inicio .max-width{
     height: 300px;
     width: 90%;
