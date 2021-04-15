@@ -94,8 +94,6 @@ section .titulos::after{
 }
 
 .wrapper-1{
-  
-  
   width: 100%;
 }
 .wrapper-1 nav{
@@ -106,7 +104,6 @@ section .titulos::after{
   height: 70px;
   align-items: center;
   justify-content: space-between;
-
 }
 nav .content{
   display: flex;
@@ -268,9 +265,10 @@ nav .content .links{
    color: #ff8600;
    font-weight: 600;
 }
+
 /*botao suporte*/
 .clientes{
-    background: url("img/background3.png") no-repeat center;
+    background: url("img/background4.png") no-repeat center;
     height: 1280px;  
 }
  
@@ -288,7 +286,6 @@ nav .content .links{
 
 .carousel{
   max-width: 2000px;
- 
   padding: 0 0px;
 }
 .carousel .card{
@@ -317,6 +314,7 @@ nav .content .links{
   box-shadow: 0px 4px 15px rgba(0,0,0,0.2);
   transition: all 0.3s ease;
 }
+
 .owl-dot.active,
 .owl-dot:hover{
   background: #ff8600!important;
@@ -339,7 +337,6 @@ nav .content .links{
     margin-left: 18%;
     margin-top: -4%;
 }
-
 
 .dummy-text{
   position: absolute;
@@ -442,13 +439,64 @@ nav .content .links{
   }
 }
 
+/*botao suporte*/
+.button-menu {
+    background-color: #ff8600;
+    border: none;
+    color: white;
+    padding: 7px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: -4px 2px;
+    cursor: pointer;
+    border-radius: 60px;
+    margin-left: -8%;
+    font-weight: 600;
+}
+
 
 @media (max-width: 817px) { /* MEDIA QUERY MENU */
+
+/*botao suporte*/
+.button-menu {
+    background-color: #ff8600;
+    border: none;
+    color: white;
+    padding: 7px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: -4px 2px;
+    cursor: pointer;
+    border-radius: 60px;
+    margin-left: -8%;
+    font-weight: 600;
+}
 
 }
 
 
 @media (max-width: 500px){ /* MEDIA QUERY MENU */
+
+/*botao suporte*/
+.button-menu {
+    background-color: #ff8600;
+    border: none;
+    color: white;
+    padding: 7px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: -4px 2px;
+    cursor: pointer;
+    border-radius: 60px;
+    margin-left: -8%;
+    font-weight: 600;
+}
 
 }
 /*MENU BAR FIM*/
@@ -468,7 +516,7 @@ nav .content .links{
 
 .inicio{
     display: flex;
-    background: url("img/background1.png") no-repeat center;
+    background: url("img/background5.png") no-repeat center;
     height: 100vh;
     color: #fbfbfb;
     min-height: 500px;
@@ -513,7 +561,7 @@ nav .content .links{
  .inicio
   {
     display: flex;
-    background: url("img/background1.png") no-repeat center;
+    background: url("img/background5.png") no-repeat center;
     height: 1+50vh;
     color: #fbfbfb;
     min-height: 500px;
@@ -597,7 +645,7 @@ nav .content .links{
 
  .inicio{
     display: flex;
-    background: url("img/background1.png") no-repeat center;
+    background: url("img/background5.png") no-repeat center;
     height: 1+50vh;
     color: #fbfbfb;
     min-height: 500px;
@@ -648,7 +696,7 @@ nav .content .links{
 
  .inicio{
     display: flex;
-    background: url("img/background1.png") no-repeat center;
+    background: url("img/background5.png") no-repeat center;
     height: 150vh;
     color: #fbfbfb;
     min-height: 500px;
@@ -719,7 +767,7 @@ nav .content .links{
 
  .inicio{
     display: flex;
-    background: url("img/background1.png") no-repeat center;
+    background: url("img/background5.png") no-repeat center;
     height: 100vh;
     color: #fbfbfb;
     min-height: 500px;
@@ -975,7 +1023,7 @@ nav .content .links{
 
  .inicio{
     display: flex;
-    background: url("img/background1.png") no-repeat center;
+    background: url("img/background5.png") no-repeat center;
     height: 1+50vh;
     color: #fbfbfb;
     min-height: 500px;
@@ -1075,6 +1123,7 @@ nav .content .links{
 }
 
 }
+
 /*CLIENTES FIM*/
 
 /*---------------------------------------------------------------------------------------*/
