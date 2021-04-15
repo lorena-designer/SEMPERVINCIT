@@ -437,6 +437,8 @@ nav .content .links{
     line-height: 30px;
     border-radius: 5px!important;
   }
+    
+    
 }
 
 
@@ -447,6 +449,21 @@ nav .content .links{
 
 @media (max-width: 500px){ /* MEDIA QUERY MENU */
 
+.button-menu {
+    background-color: #ff8600;
+    border: none;
+    color: white;
+    padding: 7px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: -4px 2px;
+    cursor: pointer;
+    border-radius: 60px;
+    margin-left: -37%;
+    font-weight: 600;
+}
 }
 /*MENU BAR FIM*/
 /*---------------------------------------------------------------------------------------*/
